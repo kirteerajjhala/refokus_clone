@@ -35,7 +35,6 @@ This repository contains the source code for a **React-based clone website of Re
 
 
 
-*(Replace `screenshot.png` with your actual image path or link)*  
 
 ---
 
